@@ -4,10 +4,6 @@ function setup() {
 }
 
 function draw(){
-    if (mouseIsPressed) {
-        fill(255, 0, 0);
-        ellipse(mouseX, mouseY, 50, 50);
-    }
 }
 
 function mousePressed(){
